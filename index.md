@@ -1,4 +1,4 @@
-#Gaurav's first CS 193 Homework!!!
+# Gaurav's first CS 193 Homework!!!
 - I love that cs 193 is entirely student led
 - I also love that cs 193 has a lot of practical components
 - I also love that whoever is grading my assignment will view the two links I added below the code block :)
